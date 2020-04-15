@@ -34,3 +34,4 @@ const InviteInput = ({ room }) => {
 }
 
 export default InviteInput;
+
